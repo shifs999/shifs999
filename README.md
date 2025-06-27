@@ -55,5 +55,5 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nightowl" width=650 alt="Quote of the Day"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nightowl" width=520 alt="Quote"/>
 </p>
