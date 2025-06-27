@@ -1,16 +1,42 @@
-## Hi there 👋
+## 🌌 Hi there, Welcome to my little corner of the internet 
 
-<!--
-**shifs999/shifs999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- *I create projects with the vision of building intelligent systems that perceive, learn, & act across vision, data, and beyond.*
 
-Here are some ideas to get you started:
+### 🤖 Tech Playground
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Geeking out on: Deep Learning sorcery, conversational AI agents, and crafting mern-stack magic  
+- 🛠️ Creating: Smart systems that talk back, dashboards with attitude, and open-source fire
+- How to reach me: [Email](mailto:saizen777999@gmail.com)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/shifs999">
+    <img src="https://github-readme-stats.vercel.app/api?username=shifs999&show_icons=true&theme=tokyonight" height="180"/>
+  </a>
+  <a href="https://github.com/shifs999">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifs999&layout=compact&theme=algolia" height="180"/>
+  </a>
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=shifs999&theme=radical" alt="GitHub Streak"/>
+  </a>
+</p>
+
+---
+
+### 🔮 Thought Cache
+
+> I love turning ideas into real projects and ☕ into code. 
+> Continuously learning, innovating, and pushing the boundaries of what's possible.
+
+> "The future belongs to those who automate it."  
+> *- probably me at 2 AM debugging*  `¯\_(ツ)_/¯`
