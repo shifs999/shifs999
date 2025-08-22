@@ -23,16 +23,6 @@
 
 ---
 
-### 🔥 GitHub Streak
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=shifs999&theme=catppuccin_mocha" alt="GitHub Streak" style="border-radius: 12px;"/>
-  </a>
-</p>
-
----
-
 ### 🧩 My GitHub Activity Graph
 
 <p align="center">
